@@ -1,0 +1,15 @@
+*   bbc4f7f (HEAD -> main, origin/main) merge branch b2
+|\  
+| * ea3402d b2-m2
+| * 9012d61 b2-m1
+* |   bf6b66c merging b1 into main
+|\ \  
+| |/  
+|/|   
+| * 032fff9 b1-m2
+| * 0644fe6 b1-m1
+* | fa69220 m4
+|/  
+* 209a89c m3
+* 31f4d05 m2
+* fec94ba m1
